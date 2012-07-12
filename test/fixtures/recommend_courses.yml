@@ -1,9 +1,0 @@
-# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
-
-one:
-  super_course_id: 1
-  sub_course_id: 1
-
-two:
-  super_course_id: 1
-  sub_course_id: 1
