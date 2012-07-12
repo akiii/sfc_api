@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-SfcApi::Application.config.secret_token = '5981a9fa0d259a528ab33521825f8542456adca2b89e8d6621cc425f44356b0def25e95414d656eced59dfbd6248824acaf018ba93b22bf82d3c77f530f21836'
+SfcApi::Application.config.secret_token = 'ee6104d08e09519ce24d9988d380731310315fbf4b87da50d517de5ec313772edad573854198f0753e7abea02a2572bc34fa87869a9c7a3db15c4de8c6ab6e3a'
